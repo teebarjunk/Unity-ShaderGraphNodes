@@ -1,5 +1,9 @@
 Unity finally has a [shader graph system](https://unity3d.com/shader-graph). Here I will try to keep track of all the useful nodes people are developing.
 
+[shadergraph-custom-nodes by andydbc](https://github.com/andydbc/shadergraph-custom-nodes)
+* Easing Functions
+* Procedural Star
+
 [shadergraphextensions by simonwittber](https://github.com/simonwittber/shadergraphextensions)
 * 3D Bars
 * Billow Noise
